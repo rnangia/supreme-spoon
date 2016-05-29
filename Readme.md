@@ -1,2 +1,2 @@
-Running applescripts: 
+To Run applescripts: 
 	osacript <ScriptName>.scpt
